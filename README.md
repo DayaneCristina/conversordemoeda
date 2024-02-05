@@ -24,6 +24,6 @@ Este é um simples conversor de moedas em Python. Ele utiliza as taxas de câmbi
   &nbsp;&nbsp;
   <img align="center" alt="icone-VS-CODE" height="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   &nbsp;&nbsp;
-  <img align="center" alt="icone-Python" height="60" src="https://github.com/devicons/devicon/blob/master/icons/python/go-original.svg">
+  <img align="center" alt="icone-Python" height="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   &nbsp;&nbsp;
 </div>
